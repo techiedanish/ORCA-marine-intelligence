@@ -1,0 +1,16 @@
+{
+  "name": "sih26-orca",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "turbo run dev",
+    "dev:web3": "turbo run dev --filter=web3",
+    "build": "turbo run build"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.9"
+  },
+  "packageManager": "npm@10.9.0"
+}

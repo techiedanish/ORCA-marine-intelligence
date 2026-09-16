@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "name": "India EEZ, IMBL & MPA Reference Layers (Illustrative / Demo Fidelity)",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "IMBL_LINE",
+        "name": "India - Sri Lanka International Maritime Boundary Line (13-Point Treaty, 1974/1976)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [79.9722, 10.3639],
+          [79.8667, 10.0833],
+          [79.7167, 9.7333],
+          [79.6667, 9.4833],
+          [79.5833, 9.2167],
+          [79.5167, 8.9333],
+          [79.4667, 8.7333],
+          [79.3667, 8.4167],
+          [79.1000, 8.1500],
+          [78.8833, 7.9500],
+          [78.4833, 7.7167],
+          [78.0833, 7.6500],
+          [77.7000, 7.6167]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "EEZ_BOUNDARY",
+        "name": "India Exclusive Economic Zone (Outer Limit, Illustrative)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [68.0, 23.5], [72.0, 20.5], [70.0, 15.0], [72.0, 8.0],
+          [76.0, 5.0], [80.0, 6.0], [83.0, 8.0], [86.0, 10.0],
+          [90.0, 15.0], [92.5, 20.0], [88.0, 22.0], [80.0, 21.5],
+          [72.0, 22.0], [68.0, 23.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "MPA",
+        "name": "Gulf of Mannar Marine National Park",
+        "state": "Tamil Nadu",
+        "designation": "Marine National Park (Wildlife Protection Act, 1972)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [79.05, 9.25], [79.25, 9.20], [79.28, 9.05],
+          [79.10, 8.95], [78.95, 9.05], [79.05, 9.25]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "MPA",
+        "name": "Gahirmatha Marine Sanctuary",
+        "state": "Odisha",
+        "designation": "Marine Sanctuary (Olive Ridley Turtle Nesting Reserve)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [86.85, 20.75], [87.05, 20.72], [87.08, 20.55],
+          [86.90, 20.48], [86.75, 20.60], [86.85, 20.75]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "MPA",
+        "name": "Sundarbans Marine Protected Area",
+        "state": "West Bengal",
+        "designation": "Biosphere Reserve / Tiger Reserve Buffer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.75, 21.85], [89.05, 21.80], [89.10, 21.55],
+          [88.85, 21.45], [88.65, 21.60], [88.75, 21.85]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "MPA",
+        "name": "Malvan Marine Sanctuary",
+        "state": "Maharashtra",
+        "designation": "Marine Sanctuary"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [73.42, 16.10], [73.50, 16.08], [73.52, 15.98],
+          [73.44, 15.94], [73.38, 16.02], [73.42, 16.10]
+        ]]
+      }
+    }
+  ]
+}

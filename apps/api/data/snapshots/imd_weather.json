@@ -1,0 +1,31 @@
+{
+  "bulletin_number": "IMD-MW-2026-0906-01",
+  "bulletin_timestamp": "2026-09-06T06:00:00Z",
+  "cyclone_tracker": [],
+  "fishermen_warning": {
+    "arabian_sea_south": {
+      "safety_status": "NORMAL",
+      "warning_message": "Sea condition moderate. Wind speed 15-20 knots. Fishermen advised to exercise normal seasonal caution along the Kerala-Karnataka coast."
+    },
+    "arabian_sea_north": {
+      "safety_status": "CAUTION",
+      "warning_message": "Squally weather likely along and off the Gujarat-Maharashtra coast with wind speeds reaching 20-28 knots. Small mechanized boats and artisanal craft advised caution."
+    },
+    "bay_of_bengal_south": {
+      "safety_status": "NORMAL",
+      "warning_message": "Sea condition moderate to rough. Wind speed 15-20 knots along and off the Tamil Nadu coast."
+    },
+    "bay_of_bengal_north": {
+      "safety_status": "CAUTION",
+      "warning_message": "Wind speed reaching 20-25 knots along and off the Andhra Pradesh-Odisha coast. Fishermen advised not to venture beyond 30 nautical miles."
+    },
+    "west_bengal_coast": {
+      "safety_status": "NORMAL",
+      "warning_message": "Sea condition moderate along the West Bengal coast. Wind speed 12-18 knots."
+    },
+    "sri_lanka_border_sector": {
+      "safety_status": "CAUTION",
+      "warning_message": "Vessels operating near the International Maritime Boundary Line (Palk Bay / Gulf of Mannar) advised to maintain strict navigational discipline and avoid crossing the treaty line."
+    }
+  }
+}
