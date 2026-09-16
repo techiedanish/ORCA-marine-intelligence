@@ -146,11 +146,3 @@ SIH26/
   drop-in upgrade for novel phrasings once a real `GEMINI_API_KEY` is configured,
   but isn't called by default so the demo stays fast and fully offline-capable.
 
-## Optional environment variables
-
-None are required. If you want to enable them:
-
-```bash
-export GEMINI_API_KEY="..."          # enables Gemini Flash synthesis (else: deterministic fallback, always available)
-export OPENWEATHERMAP_API_KEY="..."  # enables an optional secondary weather cross-check (else: Open-Meteo alone, which is already live and free)
-```
