@@ -1,5 +1,5 @@
 # ORCA — Marine EcOsystem Reasoning with Collaborative Agents
-### Smart India Hackathon 2026 · Problem Statement PS 26176
+### Smart India Hackathon 2026 - Problem Statement PS 26176
 
 A multi-agent conversational copilot for Indian coastal fishermen and the Coast Guard,
 fusing INCOIS Potential Fishing Zone advisories, ISRO Oceansat-3 ocean color/thermal
