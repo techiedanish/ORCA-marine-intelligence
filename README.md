@@ -91,7 +91,7 @@ requirements. Concretely:
    species filter, and every "Use my location" button was click-tested against the
    live backend during this rebuild (see "What was tested" below) — none of them
    were already fake, but this was explicitly re-verified rather than assumed.
-[open_mateo_client.py] (https://github.com/techiedanish/ORCA-marine-intelligence/blob/main/apps/api/data_sources/open_meteo_client.py)
+
 ---
 
 ## Repository layout
